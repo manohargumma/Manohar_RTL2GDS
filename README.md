@@ -6,3 +6,4 @@
 💾 50 GB HDD<br>
 🐧 Ubuntu 20.04 or higher<br>
 🔲  4 vCPU<br>
+#Digital VLSI SoC Design and Planing 
