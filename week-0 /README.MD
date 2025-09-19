@@ -22,4 +22,11 @@ $ sudo apt-get install iverilog<br>
 
 $sudo apt-get update<br>
 $sudo apt install gtkwave <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png" alt="Screenshot-from-2025-09-19-22-28-02" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png" alt="Screenshot-from-2025-09-19-22-28-02" border="0"></a><br>
+# OpenTimer
+$ git clone https://github.com/OpenTimer/OpenTimer<br>
+$ cd OpenTimer<br>
+$ mkdir build<br>
+$ cd build<br>
+$ cmake ../
+$ make <br>
