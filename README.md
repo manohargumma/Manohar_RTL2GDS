@@ -1,6 +1,5 @@
-# Manohar_RTL2GDS
+# RISC-V Reference SoC Tapeout Program VSD
 Manohar_RTL2GDS
-# RTL2GDS_Lite
 
 A simplified, week-wise journey from **RTL (Register Transfer Level)** to **GDSII layout** using **open-source EDA tools**.  
 This project is inspired by the original [RTL2GDS_Alchemy](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy) flow,  
