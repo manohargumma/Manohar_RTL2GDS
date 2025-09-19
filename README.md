@@ -1,5 +1,5 @@
 # RISC-V Reference SoC Tapeout Program VSD
-># Tool Instalation
+># ⚙️Tool Instalation
 <p><b>All the instructions for installation of required tools can be found here:</b></p>
 System Requirements
 6 GB RAM
