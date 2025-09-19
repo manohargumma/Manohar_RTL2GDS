@@ -1,5 +1,5 @@
 # TOOL CHECK
-# yosys
+# <u>yosys</u>
 $ sudo apt-get update<br>
 $ git clone https://github.com/YosysHQ/yosys.git<br>
 $ cd yosys
@@ -13,4 +13,7 @@ $ make config-gcc<br>
 $ git submodule update --init --recursive <br>
 $ make <br>
 $ sudo make install<br>
-<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />
+<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />#
+# <u>iverilog</u>
+$ sudo apt-get update<br>
+$ sudo apt-get install iverilog<br>
