@@ -1,24 +1,14 @@
 
 # 🖥️ RISC-V Reference SoC Tapeout Program VSD
+ 
 
-![RISC-V](https://img.shields.io/badge/RISC--V-Processor-blue)
-![SoC Tapeout](https://img.shields.io/badge/SoC-Tapeout-success)
-![VSD](https://img.shields.io/badge/VSD-Program-orange)
-![Participants](https://img.shields.io/badge/Participants-3500%2B-brightgreen)
-![Made in India](https://img.shields.io/badge/Made%20in-India-green)
-
----
-
-Welcome to my journey through the **SoC Tapeout Program VSD** 🚀   
-
-This repository documents my **week-by-week progress** with tasks inside each week.
-
----
+This repository documents my **week-by-week progress** with tasks inside each week
 
 > *"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools.  
 > Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem."*
 
 ---
+
 
 ## 📅 Weekly Progress
 
