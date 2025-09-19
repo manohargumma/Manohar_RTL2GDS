@@ -17,4 +17,4 @@ $ sudo make install<br>
 # <u>iverilog</u>
 $ sudo apt-get update<br>
 $ sudo apt-get install iverilog<br>
-<a href="https://ibb.co/xK9L92Y9"><img src="https://i.ibb.co/0p424nK4/Screenshot-from-2025-09-19-22-13-22.png" alt="Screenshot-from-2025-09-19-22-13-22" border="0"></a>
+<a href="https://ibb.co/h1nhWF1c"><img src="https://i.ibb.co/YTKYkBTX/Screenshot-from-2025-09-19-22-22-25.png" alt="Screenshot-from-2025-09-19-22-22-25" border="0"></a>
