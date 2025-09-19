@@ -1,4 +1,4 @@
-# TOOL INSTALATION
+# TOOL CHECK
 # yosys
 $ sudo apt-get update<br>
 $ git clone https://github.com/YosysHQ/yosys.git<br>
