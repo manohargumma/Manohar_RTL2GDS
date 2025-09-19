@@ -30,7 +30,7 @@ using open-source tools such as **OpenLane**, **Magic**, and **Sky130 PDK**.
 - **OpenLane** for automated digital flow  
 - **Yosys** for logic synthesis  
 - **Magic** & **KLayout** for layout visualization  
-- **SkyWater 130nm PDK** as the process design kit  
+- **SkyWater 130nm PDK** as the process design kit
 
 ---
 
