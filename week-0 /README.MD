@@ -13,4 +13,4 @@ $ make config-gcc<br>
 $ git submodule update --init --recursive <br>
 $ make <br>
 $ sudo make install<br>
-<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/8ndMQqSG/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a>
+<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/8ndMQqSG/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="100"></a>
