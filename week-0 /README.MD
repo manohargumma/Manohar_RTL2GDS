@@ -13,9 +13,4 @@ $ make config-gcc<br>
 $ git submodule update --init --recursive <br>
 $ make <br>
 $ sudo make install<br>
-<a href="https://ibb.co/8ndMQqSG">
-  <img src="https://i.ibb.co/8ndMQqSG/Screenshot-from-2025-09-19-22-01-43.png"
-       alt="Screenshot-from-2025-09-19-22-01-43"
-       width="800"
-       style="display:block; margin:auto;">
-</a>
+<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-sarfaroshi-ki-tamanna-ab-hamare-dil-mein-hai-ram-prasad-bismil'>sarfaroshi ki tamanna poem meaning in hindi</a><br />
