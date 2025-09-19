@@ -1,29 +1,44 @@
-# RISC-V Reference SoC Tapeout Program VSD
 
-"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India's largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation's semiconductor ecosystem."
+# 🖥️ RISC-V Reference SoC Tapeout Program VSD
+
+![RISC-V](https://img.shields.io/badge/RISC--V-Processor-blue)
+![SoC Tapeout](https://img.shields.io/badge/SoC-Tapeout-success)
+![VSD](https://img.shields.io/badge/VSD-Program-orange)
+![Participants](https://img.shields.io/badge/Participants-3500%2B-brightgreen)
+![Made in India](https://img.shields.io/badge/Made%20in-India-green)
+
+---
+
+Welcome to my journey through the **SoC Tapeout Program VSD** 🚀  
+
+This repository documents my **week-by-week progress** with tasks inside each week.
+
+---
+
+> *"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools.  
+> Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem."*
+
+---
 
 ## 📅 Weekly Progress
 
-| Week | Topics Covered | Highlights |
-|------|-----------------|------------|
-| **Week 0** | Environment Setup | Installed OpenLane, Sky130 PDK, and verified toolchain on Ubuntu. |
-| **Week 1** | RTL Design | Designed a basic 4-bit ALU in Verilog and created testbenches. |
-| **Week 2** | Synthesis | Performed synthesis with Yosys, analyzed timing and area reports. |
-| **Week 3** | Floorplanning & Placement | Defined core area, placed standard cells. |
-| **Week 4** | Routing & GDS Export | Completed routing, checked DRC, and generated final GDSII. |
+- **Week 0** – Setup Tools (OpenLane, Docker, etc.)  
+- **Week 1** – RTL Design & Synthesis  
+- **Week 2** – Floorplanning  
+- **Week 3** – Placement  
+- **Week 4** – Clock Tree Synthesis (CTS)  
+- **Week 5** – Routing  
+- **Week 6** – DRC/LVS Checks  
+- **Week 7** – Final GDSII Generation & Tapeout Ready  
 
 ---
 
-## 🛠️ Tools & Technology
-- **OpenLane** for automated digital flow  
-- **Yosys** for logic synthesis  
-- **Magic** & **KLayout** for layout visualization  
-- **SkyWater 130nm PDK** as the process design kit
+## 🔧 Tools Used
+- **OpenLane** – Digital ASIC Flow  
+- **Yosys** – Logic Synthesis  
+- **Magic** – Layout & DRC  
+- **OpenSTA** – Timing Analysis  
+- **KLayout** – GDSII Viewer  
 
 ---
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/RTL2GDS_Lite.git
 
