@@ -31,3 +31,11 @@ $ cd build<br>
 $ cmake ../
 $ make <br>
 <a href="https://ibb.co/Hf6RkHsv"><img src="https://i.ibb.co/21xRfkQ2/Screenshot-from-2025-09-19-22-41-46.png" alt="Screenshot-from-2025-09-19-22-41-46" border="0"></a><br>
+# ngspice 
+$sudo apt install ngspice<br>
+[sudo] password for manohar-g: <br>
+Reading package lists... Done<br>
+Building dependency tree... Done<br>
+<a href="https://ibb.co/bMS9cgw4"><img src="https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png" alt="Screenshot-from-2025-09-19-22-45-25" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Edna-St-Vincent-Millay/poems/2'>the penitent 1922 by edna st vincent millay</a><br />
+
+
