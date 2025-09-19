@@ -7,5 +7,29 @@
 🐧 Ubuntu 20.04 or higher<br>
 🔲  4 vCPU<br>
 
-# <b>Week-0:<b>
-<b>Tools Required</b>
+# Week 0 — Setup & Tools
+
+> 🛠 **Foundation Week: Environment Setup and Tool Installation**  
+This week focuses on preparing the development environment with essential open-source EDA tools for the complete RTL-to-GDSII flow.
+
+---
+
+## 📋 Tasks Overview
+
+| Task   | Description          | Tools Installed             | Status |
+|--------|----------------------|-----------------------------|--------|
+| Task 0 | [Tools Installation](#tools-installed-in-week-0---task-0) | Complete EDA Toolchain Setup | ✅ Done |
+
+---
+
+## 🧰 Tools Installed in Week 0 - Task 0
+
+### Core RTL Design & Synthesis Tools
+
+| Tool       | Purpose                             | Verification |
+|------------|-------------------------------------|--------------|
+| **Yosys**  | RTL Synthesis & Logic Optimization  | ✅ Verified  |
+| **Icarus Verilog (iverilog)** | Verilog Simulation & Compilation | ✅ Verified  |
+| **GTKWave**| Waveform Viewer & Analysis          | ✅ Verified  |
+| **Ngspice**| Analog & Mixed-Signal Simulation    | ✅ Verified  |
+| **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified  |
