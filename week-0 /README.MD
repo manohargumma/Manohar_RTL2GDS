@@ -36,5 +36,21 @@ $sudo apt install ngspice<br>
 [sudo] password for manohar-g: <br>
 Reading package lists... Done<br>
 Building dependency tree... Done<br>
-<a href="https://ibb.co/bMS9cgw4"><img src="https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png" alt="Screenshot-from-2025-09-19-22-45-25" border="0"></a><br /><
+<a href="https://ibb.co/bMS9cgw4"><img src="https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png" alt="Screenshot-from-2025-09-19-22-45-25" border="0"></a><br />
+# magic
+$ sudo apt-get install m4<br>
+$ sudo apt-get install tcsh<br>
+$ sudo apt-get install csh<br>
+$ sudo apt-get install libx11-dev<br>
+$ sudo apt-get install tcl-dev tk-dev<br>
+$ sudo apt-get install libcairo2-dev<br>
+$ sudo apt-get install mesa-common-dev libglu1-mesa-dev<br>
+$ sudo apt-get install libncurses-dev
+git clone https://github.com/RTimothyEdwards/magic
+cd magic<br>
+$./configure<br>
+$make<br>
+$make install <br>
+<a href="https://ibb.co/ZpBRNknm"><img src="https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png" alt="Screenshot-from-2025-09-19-22-54-03" border="0"></a><br>
+
 
