@@ -13,7 +13,8 @@ $ make config-gcc<br>
 $ git submodule update --init --recursive <br>
 $ make <br>
 $ sudo make install<br>
-<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />#
+<a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />
 # <u>iverilog</u>
 $ sudo apt-get update<br>
 $ sudo apt-get install iverilog<br>
+<a href="https://ibb.co/xK9L92Y9"><img src="https://i.ibb.co/0p424nK4/Screenshot-from-2025-09-19-22-13-22.png" alt="Screenshot-from-2025-09-19-22-13-22" border="0"></a>
