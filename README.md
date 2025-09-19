@@ -1,14 +1,12 @@
 # RISC-V Reference SoC Tapeout Program VSD
 
-A simplified, week-wise journey from **RTL (Register Transfer Level)** to **GDSII layout** using **open-source EDA tools**.  
-This project is inspired by the original [RTL2GDS_Alchemy](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy) flow,  
-but focuses on a smaller design and easier setup for quick learning.
+The VSD RISC-V Reference SoC Tapeout is a hands-on, open-source training program where participants:
 
----
+Design a RISC-V based System-on-Chip (SoC) starting from RTL.
 
-## 🌟 Project Objective
-To design, synthesize, and generate a GDSII layout of a simple digital circuit  
-using open-source tools such as **OpenLane**, **Magic**, and **Sky130 PDK**.
+Use SkyWater 130nm PDK and OpenLane/OpenROAD for physical design.
+
+Generate a final GDSII layout that is actually sent for fabrication (tapeout).
 
 ---
 
