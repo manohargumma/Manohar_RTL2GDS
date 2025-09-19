@@ -7,5 +7,5 @@
 🐧 Ubuntu 20.04 or higher<br>
 🔲  4 vCPU<br>
 
-# <b>week-0:<b>
+# <b>Week-0:<b>
 <b>Tools Required</b>
