@@ -99,4 +99,4 @@ $./venv/bin/ciel enable --pdk-family sky130 0fe599b2afb6708d281543108caf8310912f
 $ls ~/.ciel/sky130A<br>
 $make test<br>
 <a href="https://ibb.co/5XDLkm03"><img src="https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png" alt="Screenshot-from-2025-09-20-18-52-06" border="0"></a><br />
-# <centare>Ready to Start Your Designs</centare>
+# <centare>Ready to Start My Designs</centare>
