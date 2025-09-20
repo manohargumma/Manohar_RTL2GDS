@@ -33,24 +33,40 @@ This week focuses on preparing the development environment with essential open-s
 | **GTKWave**| Waveform Viewer & Analysis          | ✅ Verified  |
 | **Ngspice**| Analog & Mixed-Signal Simulation    | ✅ Verified  |
 | **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified  |
+
+
 # 🖥️ OpenLane / Sky130A Setup
 
 This repository documents my OpenLane VLSI environment setup on Ubuntu.
 
 ---
 
+## Installed Software & Tools
 
+| Software / Tool | Version / Notes          | Status      |
+|-----------------|------------------------|------------|
+| Python          | 3.12+                  | ✅ Installed |
+| pip / venv      | Latest                  | ✅ Installed |
+| Docker          | Latest                  | ✅ Installed |
+| OpenLane        | v1.0.2 (commit ff5509f6) | ✅ Installed |
+| Ciel            | 2.x                     | ✅ Installed |
+| KLayout         | Latest (optional)       | ✅ Installed |
 
+---
 
-+------------------------+
-| Software |
-+------------------------+
-| Python 3.12+ |
-| pip / venv |
-| Docker |
-| OpenLane v1.0.2 |
-| Ciel 2.x |
-| KLayout (optional) |
-+------------------------+
+## Installed PDKs
+
+| PDK Family | Version / Hash                                      | Status               | Location                 |
+|------------|----------------------------------------------------|--------------------|-------------------------|
+| sky130A    | 0fe599b2afb6708d281543108caf8310912f54af         | ✅ Enabled & Ready | `~/.ciel/sky130A`       |
+
+---
+
+## Usage
+
+1. Activate virtual environment:
+```bash
+source ~/OpenLane/venv/bin/activate
+
 
 
