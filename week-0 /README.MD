@@ -94,6 +94,9 @@ $sudo chown -R manohar-g:manohar-g ~/.ciel<br>
 $./venv/bin/ciel ls-remote --pdk-family sky130<br>
 <a href="https://ibb.co/tpzSSCbJ"><img src="https://i.ibb.co/9HhJJYqr/Screenshot-from-2025-09-20-18-32-29.png" alt="Screenshot-from-2025-09-20-18-32-29" border="0"></a><br />
 $./venv/bin/ciel enable --pdk-family sky130 0fe599b2afb6708d281543108caf8310912f54af<br>
+<a href="https://ibb.co/d4SGV6FT"><img src="https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png" alt="Screenshot-from-2025-09-20-18-35-10" border="0"></a><br>
+
 $ls ~/.ciel/sky130A<br>
 $make test<br>
-<a href="https://ibb.co/d4SGV6FT"><img src="https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png" alt="Screenshot-from-2025-09-20-18-35-10" border="0"></a><br>
+<a href="https://ibb.co/5XDLkm03"><img src="https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png" alt="Screenshot-from-2025-09-20-18-52-06" border="0"></a><br />
+# <centare>Ready to Start Your Designs</centare>
