@@ -54,6 +54,22 @@ $make install <br>
 <a href="https://ibb.co/ZpBRNknm"><img src="https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png" alt="Screenshot-from-2025-09-19-22-54-03" border="0"></a><br>
 
 # OpenLANE
-$sudo apt-get update
-$sudo apt-get upgrade
-$sudo apt install -y build-essential python3 python3-venv python3-pip make git 
+$sudo apt-get update<br>
+$sudo apt-get upgrade<br>
+$sudo apt install -y build-essential python3 python3-venv python3-pip make git<br> 
+$sudo apt install apt-transport-https ca-certificates curl software-properties-common -y<br>
+$curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \
+sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg<br>
+$echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] \
+  https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null<br>
+$sudo apt install docker-ce docker-ce-cli containerd.io -y<br>
+$sudo apt update<br>
+$sudo apt install docker-compose-plugin -y<br>
+docker compose version<br>
+
+
+
+
