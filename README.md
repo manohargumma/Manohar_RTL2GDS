@@ -33,3 +33,24 @@ This week focuses on preparing the development environment with essential open-s
 | **GTKWave**| Waveform Viewer & Analysis          | ✅ Verified  |
 | **Ngspice**| Analog & Mixed-Signal Simulation    | ✅ Verified  |
 | **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified  |
+# 🖥️ OpenLane / Sky130A Setup
+
+This repository documents my OpenLane VLSI environment setup on Ubuntu.
+
+---
+
+
+
+
++------------------------+
+| Software |
++------------------------+
+| Python 3.12+ |
+| pip / venv |
+| Docker |
+| OpenLane v1.0.2 |
+| Ciel 2.x |
+| KLayout (optional) |
++------------------------+
+
+
