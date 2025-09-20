@@ -67,6 +67,6 @@ This repository documents my OpenLane VLSI environment setup on Ubuntu.
 1. Activate virtual environment:
 ```bash
 source ~/OpenLane/venv/bin/activate
-
+ # ready for serious design work.
 
 
