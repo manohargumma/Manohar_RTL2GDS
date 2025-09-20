@@ -53,4 +53,7 @@ $make<br>
 $make install <br>
 <a href="https://ibb.co/ZpBRNknm"><img src="https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png" alt="Screenshot-from-2025-09-19-22-54-03" border="0"></a><br>
 
-
+# OpenLANE
+$sudo apt-get update
+$sudo apt-get upgrade
+$sudo apt install -y build-essential python3 python3-venv python3-pip make git 
