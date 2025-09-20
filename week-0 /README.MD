@@ -84,3 +84,16 @@ $make --version<br>
 $python3 -m venv -h<br> 
 
 <a href="https://ibb.co/DPRtZbNC"><img src="https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png" alt="Screenshot-from-2025-09-20-16-25-11" border="0"></a><br>
+# PDKs and Tools 
+$cd $HOME<br>
+$git clone https://github.com/The-OpenROAD-Project/OpenLane<br>
+$cd OpenLane <br>
+$./venv/bin/ciel list --pdk-family sky130<br>
+$ls -ld ~/.ciel<br>
+$sudo chown -R manohar-g:manohar-g ~/.ciel<br>
+$./venv/bin/ciel ls-remote --pdk-family sky130<br>
+<a href="https://ibb.co/tpzSSCbJ"><img src="https://i.ibb.co/9HhJJYqr/Screenshot-from-2025-09-20-18-32-29.png" alt="Screenshot-from-2025-09-20-18-32-29" border="0"></a><br />
+$./venv/bin/ciel enable --pdk-family sky130 0fe599b2afb6708d281543108caf8310912f54af<br>
+$ls ~/.ciel/sky130A<br>
+$make test<br>
+<a href="https://ibb.co/d4SGV6FT"><img src="https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png" alt="Screenshot-from-2025-09-20-18-35-10" border="0"></a><br>
