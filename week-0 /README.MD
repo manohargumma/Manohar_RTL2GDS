@@ -68,8 +68,19 @@ $echo \
 $sudo apt install docker-ce docker-ce-cli containerd.io -y<br>
 $sudo apt update<br>
 $sudo apt install docker-compose-plugin -y<br>
-docker compose version<br>
+$docker compose version<br>
+$sudo usermod -aG docker $USER
+newgrp docker<br>
+$sudo reboot<br>
 
 
 
+# Check 
+$git --version<br>
+$docker --version<br>
+$python3 --version<br>
+$python3 -m pip --version<br>
+$make --version<br>
+$python3 -m venv -h<br> 
 
+<a href="https://ibb.co/DPRtZbNC"><img src="https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png" alt="Screenshot-from-2025-09-20-16-25-11" border="0"></a><br>
